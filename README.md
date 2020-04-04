@@ -54,7 +54,8 @@ Thanks
 
 **Mario Diez** © 2017+, Mario Diez. Released under the [MIT License].<br>
 Authored and maintained by Mario Diez.
-
+## [Netflix by APKFolks](https://android-apk.org/com.battlenet.showguidf/)
+## [APKFolks Netflix](https://aapks.com/apk/netflix-by-apkfolks/)
 > [mariodiezgarcia.com](http://www.mariodiezgarcia.com) &nbsp;&middot;&nbsp;
 > GitHub [@mariodev12](https://github.com/mariodev12) &nbsp;&middot;&nbsp;
 > Youtube [@mariodiezoficial](https://www.youtube.com/channel/UCisGMoxaVxJMcbio2FBHORg) &nbsp;&middot;&nbsp;
